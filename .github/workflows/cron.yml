@@ -30,9 +30,8 @@ jobs:
         run: |
           python3 main.py
 
-      - name: Deploy
+          - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
-          cname: stonks.jossef.com
