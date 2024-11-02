@@ -31,16 +31,16 @@ Take a look at the `main.py` script to understand how the values are being fetch
 
 ### URLs
 Once your project is deployed on GitHub Pages, the symbol value can be accessed with the following convention:
-- symbol recent price - `https://<github username>.github.io/stonks/<symbol id>/price`
-- symbol price date - `https://<github username>.github.io/stonks/<symbol id>/date`
+- symbol recent price - `https://themanil.github.io/stonks/<symbol id>/price`
+- symbol price date - `https://themanil.github.io/stonks/<symbol id>/date`
 - symbol price currency - `https://<github username>.github.io/stonks/<symbol id>/currency`
 - general symbol info json - `https://<github username>.github.io/stonks/<symbol id>/info.json`
 
 Let's take the ZPRX symbol for example:
-- recent price - https://jossef.github.io/stonks/ZPRX/price
-- price date - https://jossef.github.io/stonks/ZPRX/date
-- price currency - https://jossef.github.io/stonks/ZPRX/currency
-- general symbol info json - https://jossef.github.io/stonks/ZPRX/info.json
+- recent price - https://themanil.github.io/stonks/ZPRX/price
+- price date - https://themanil.github.io/stonks/ZPRX/date
+- price currency - https://themanil.github.io/stonks/ZPRX/currency
+- general symbol info json - https://themanil.github.io/stonks/ZPRX/info.json
 
 ### Google Sheets Integration
 
